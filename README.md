@@ -63,7 +63,7 @@ Abaixo contém o link para acessar a documentação da API:
 -   [Yarn](https://classic.yarnpkg.com/) ou [npm](https://www.npmjs.com/)
 -   Ter o [MongoDB](https://www.mongodb.com/pt-br) instalado em sua máquina
 
-> Obs.: Recomendado utilizar o docker, as configurações para conexão com o banco e dados estão no arquivo `.env`
+> Obs.: Recomendado utilizar o docker, as configurações para conexão com o banco de dados estão no arquivo `.env`
 
 **Clone o projeto e acesse a pasta**
 
