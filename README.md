@@ -11,11 +11,13 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-lucas%20rocha-00CC00">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lrocha09/vollare-api?color=00CC00">
+  
+   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lrocha09/vollare-api?color=00CC00">
 
   <a href="https://github.com/lrocha09/vollare-api/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lrocha09/vollare-api?color=00CC00">
   </a>
+  
 
   <a href="https://github.com/lrocha09/vollare-api/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/lrocha09/vollare-api?color=00CC00">
